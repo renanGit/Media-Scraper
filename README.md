@@ -1,4 +1,4 @@
-Media-Scraper
+MediaSite
 =============
 
 > A passion of mine is to scrape known data bases for helpful details of movies, tv shows, and documentaries.
